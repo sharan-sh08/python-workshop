@@ -1,5 +1,6 @@
-num=int(input("Enter your number:-"))
-print (num)
+num =1
+while(num<100):
+   
+    print(num)
+    num+=2
 
-name=str(input("Enter your name:-"))
-print (name)
